@@ -6,7 +6,8 @@ class Solution:
         while size < n:
             size *= 2
 
-        # tree[node] = [product % k, prefix counts]
+        # Each node:
+        # [product of entire segment % k, count of prefix products]
         tree = [[1 % k, [0] * k] for _ in range(2 * size)]
 
         # Build leaves
@@ -16,14 +17,19 @@ class Solution:
             tree[size + i][1][r] = 1
 
         def merge(a, b):
-            prod = (a[0] * b[0]) % k
-            cnt = a[1][:]
+            # Product of the whole combined segment
+            product = (a[0] * b[0]) % k
 
+            # Prefixes that end inside a
+            count = a[1][:]
+
+            # Prefixes that contain all of a
+            # and then some prefix of b
             for r in range(k):
                 new_r = (a[0] * r) % k
-                cnt[new_r] += b[1][r]
+                count[new_r] += b[1][r]
 
-            return [prod, cnt]
+            return [product, count]
 
         # Build segment tree
         for i in range(size - 1, 0, -1):
@@ -33,8 +39,11 @@ class Solution:
 
         for index, value, start, x in queries:
 
+            # -------------------------
             # Point update
+            # -------------------------
             pos = size + index
+
             r = value % k
 
             tree[pos] = [r, [0] * k]
@@ -42,11 +51,13 @@ class Solution:
 
             pos //= 2
 
-            while pos:
+            while pos > 0:
                 tree[pos] = merge(tree[2 * pos], tree[2 * pos + 1])
                 pos //= 2
 
-            # Query range [start, n)
+            # -------------------------
+            # Query [start, n - 1]
+            # -------------------------
             left = [1 % k, [0] * k]
             right = [1 % k, [0] * k]
 
