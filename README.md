@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aronyesh31/LeetCode/tree/master/0001-two-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aronyesh31/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
