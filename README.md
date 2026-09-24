@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aronyesh31/LeetCode/tree/master/0001-two-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aronyesh31/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aronyesh31/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
 |  |
 | ------- |
