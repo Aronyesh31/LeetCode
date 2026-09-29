@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aronyesh31/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aronyesh31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aronyesh31/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aronyesh31/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aronyesh31/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aronyesh31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aronyesh31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
