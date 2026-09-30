@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aronyesh31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aronyesh31/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aronyesh31/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aronyesh31/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aronyesh31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aronyesh31/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aronyesh31/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aronyesh31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aronyesh31/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aronyesh31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
