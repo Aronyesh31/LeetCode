@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aronyesh31/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aronyesh31/LeetCode/tree/master/0007-reverse-integer) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aronyesh31/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aronyesh31/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aronyesh31/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
